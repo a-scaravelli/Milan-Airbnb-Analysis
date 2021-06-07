@@ -18,7 +18,7 @@ The geographical map of milan was used "https://mapcruzin.com/free-italy-arcgis-
 
 ## Results:
 1. Being closer to the center appears the mean an higher daily prices in Air-bnb apartments
-![Prices](Results images/Prices Map.png)
+![Prices](https://github.com/a-scaravelli/Milan-Airbnb-Analysis/blob/main/Results%20images/Prices%20Map.png?raw=true)
 Format: ![Alt Text](url)
 
 
