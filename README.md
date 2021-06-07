@@ -19,21 +19,15 @@ The geographical map of milan was used "https://mapcruzin.com/free-italy-arcgis-
 ## Results:
 1. Being closer to the center appears the mean an higher daily prices in Air-bnb apartments
 
-
 ![Prices](https://github.com/a-scaravelli/Milan-Airbnb-Analysis/blob/main/Results%20images/Prices%20Map.png?raw=true)
-Format: ![Alt Text](url)
-
 
 2. Being closer to the center doesn't seem to influence the quality of the apartment
 
 ![Scores](https://github.com/a-scaravelli/Milan-Airbnb-Analysis/blob/main/Results%20images/Rental%20Scores%20Milan.png?raw=true)
-Format: ![Alt Text](url)
-
 
 3. We can use this dataset to predict the price for a new listing
 
 ![Metrics](https://github.com/a-scaravelli/Milan-Airbnb-Analysis/blob/main/Results%20images/metrics.PNG?raw=true)
-Format: ![Alt Text](url)
 
 ## Acknowledgments:
 In order to have a good stay in Milan, I'd suggest to take an apartment just outside the city center.
