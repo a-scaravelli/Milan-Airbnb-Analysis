@@ -18,18 +18,18 @@ The geographical map of milan was used "https://mapcruzin.com/free-italy-arcgis-
 
 ## Results:
 1. Being closer to the center appears the mean an higher daily prices in Air-bnb apartments
-![Prices](C:/Users/albis/Documents/Python/Milano/Results/Prices Map.png)
+![Prices](Results images/Prices Map.png)
 Format: ![Alt Text](url)
 
 
 2. Being closer to the center doesn't seem to influence the quality of the apartment
-![Scores](C:/Users/albis/Documents/Python/Milano/Results/Rental Scores Milan.png)
+![Scores](Results images/Rental Scores Milan.png)
 Format: ![Alt Text](url)
 
 
 3. We can use this dataset to predict the price for a new listing
 
-![Metrics](C:/Users/albis/Documents/Python/Milano/Results/metrics.png)
+![Metrics](Results images/metrics.png)
 Format: ![Alt Text](url)
 
 ## Acknowledgments:
